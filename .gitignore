@@ -1,0 +1,4 @@
+# 特定のディレクトリを除外する場合
+ffhq-dataset/
+pretrained_model/
+outputs/
